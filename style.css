@@ -92,6 +92,7 @@ a:focus {
 .footer {
   background-color: #fff;
   color: var(--clr-primary-400);
+  padding: 0 5%;
 }
 
 // ICONS and LOGO
